@@ -1,0 +1,4 @@
+useDynLib("RMKdiscrete")
+export ("dLGP","LGPMVP","LGP.findmax","LGP.get.nc","pLGP","qLGP","rLGP","sLGP","dbiLGP","biLGP.logMV","rbiLGP",
+        "dnegbin","negbinMVP","dbinegbin","binegbin.logMV","rbinegbin","dmanaclash.dmg","dmanaclash.xyN",
+        "dmanaclash.net","rmanaclash")
